@@ -1,4 +1,6 @@
-# robert-christopher.github.io
-Robert's Github Page
+# Robert Christopher
 
-Coming up soon
+## Stack
+
+* [Jekyll](https://jekyllrb.com/) for the site generation
+
