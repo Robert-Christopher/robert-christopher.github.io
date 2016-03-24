@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hey, I am developer of software products for Clock Work Ventures pte. Ltd. A complete product guy, aspiring to startup on my own some day. Started my stint with computers with a turtle on screen, have reached a cursor now and many more to go.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find me here
+[Github](https://github.com/Robert-Christopher)
+[Stackoverflow](http://stackoverflow.com/users/3886729/robert-christopher)
+[Angel](https://angel.co/robert-christopher-a)
+[Linkedin](in.linkedin.com/in/antonyrobertchristopher)
